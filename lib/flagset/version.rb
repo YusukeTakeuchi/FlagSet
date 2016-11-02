@@ -1,3 +1,3 @@
-module Flagset
-  VERSION = "0.1.1"
+module FlagSet
+  VERSION = "0.1.2"
 end

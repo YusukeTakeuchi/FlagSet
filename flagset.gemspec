@@ -5,7 +5,7 @@ require 'flagset/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "flagset"
-  spec.version       = Flagset::VERSION
+  spec.version       = FlagSet::VERSION
   spec.authors       = ["Yusuke Takeuchi"]
   spec.email         = ["v.takeuchi@gmail.com"]
 
